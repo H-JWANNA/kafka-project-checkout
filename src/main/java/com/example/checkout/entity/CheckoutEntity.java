@@ -36,5 +36,5 @@ public class CheckoutEntity extends BaseEntity {
 	private Long amount;
 
 	@Column(name = "shippingAddress")
-	private String ShippingAddress;
+	private String shippingAddress;
 }
